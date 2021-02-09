@@ -101,9 +101,6 @@ fabric.properties
 
 
 
-
-# transoul add:
-
 .idea/codeStyles
 .idea/misc.xml
-#######################################################################
+.idea/vcs.xml
